@@ -2,11 +2,6 @@
 
 <div>
 
-### ⛳️ Github Stats
-![Yusun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusuy&show_icons=true&theme=yeblu&hide_title=true)
-
-<br/>
-
 ### ⛳️ Tech Stack
 
 #### 🛹 Studying
