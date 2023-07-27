@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=80&color=57c95c&section=header&text=Yusun%20Choi&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Yusun%20Choi&fontSize=40&fontColor=57c95c&desc=🛸&descSize=30&descAlign=65&descAlignY=70)
 
 <div>
 
