@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Yusun%20Choi&fontSize=40&fontColor=57c95c&desc=🛸&descSize=30&descAlign=65&descAlignY=70)
+`YUSUN CHOI`
 
-<div>
-
-## ⛳ Tech Stack
+#### ⛴️ Tech Stack
 
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
