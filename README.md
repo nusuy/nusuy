@@ -4,6 +4,8 @@
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
